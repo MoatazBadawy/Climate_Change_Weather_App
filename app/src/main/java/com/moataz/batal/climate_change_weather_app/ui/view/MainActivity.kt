@@ -1,7 +1,8 @@
-package com.moataz.batal.climate_change_weather_app
+package com.moataz.batal.climate_change_weather_app.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.moataz.batal.climate_change_weather_app.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
